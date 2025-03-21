@@ -1,5 +1,5 @@
 class Categoria:
-    def __init__(self, name, descricao):
+    def __init__(self, nome, descricao):
         self._nome = nome
         self._descricao = descricao
 
